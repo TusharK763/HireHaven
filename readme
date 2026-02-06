@@ -1,1 +1,30 @@
-hhh
+# HireHaven
+
+HireHaven is a full-stack job portal application built to simplify the hiring process. Recruiters can post and manage jobs, while candidates can browse and apply for opportunities.
+
+The project focuses on a clean Spring Boot backend with secure authentication and a structured data model using MongoDB.
+
+---
+
+## Features
+
+- User authentication using JWT  
+- Role-based access (Recruiter / Candidate)  
+- Recruiters can create and manage job postings  
+- Candidates can browse and apply for jobs  
+- REST APIs with proper validation and error handling  
+
+---
+
+## Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data MongoDB
+
+**Database**
+- MongoDB
+
+
